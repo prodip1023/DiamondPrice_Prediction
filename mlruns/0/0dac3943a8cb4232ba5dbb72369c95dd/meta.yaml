@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/prodipsarkar/Downloads/DiamondPrice_Prediction/mlruns/0/0dac3943a8cb4232ba5dbb72369c95dd/artifacts
+end_time: 1701018140809
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0dac3943a8cb4232ba5dbb72369c95dd
+run_name: righteous-vole-881
+run_uuid: 0dac3943a8cb4232ba5dbb72369c95dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701018136667
+status: 3
+tags: []
+user_id: prodipsarkar

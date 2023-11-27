@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/prodipsarkar/Downloads/DiamondPrice_Prediction/mlruns/0/b7db6ea2a1b34c3db5492979275d423c/artifacts
+end_time: 1701018051903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7db6ea2a1b34c3db5492979275d423c
+run_name: gentle-ox-812
+run_uuid: b7db6ea2a1b34c3db5492979275d423c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701018044705
+status: 3
+tags: []
+user_id: prodipsarkar
